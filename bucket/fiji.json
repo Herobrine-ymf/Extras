@@ -1,12 +1,12 @@
 {
-    "version": "20250122-2017",
+    "version": "20250227-1017",
     "description": "ImageJ distribution with many plugins which facilitating scientific image analysis.",
     "homepage": "https://fiji.sc/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.imagej.net/fiji/archive/20250122-2017/fiji-win64.zip",
-            "hash": "2c8c01a1445766e02e28b258f5384192463ce7a7bd3bb131e982cab3b5034438"
+            "url": "https://downloads.imagej.net/fiji/archive/20250227-1017/fiji-win64.zip",
+            "hash": "fbd2bee2773ae0cbbccac8e7f9ae1b20ef2b935b5aee017c216cf6169376a4f6"
         }
     },
     "extract_dir": "Fiji.app",

@@ -1,5 +1,5 @@
 {
-    "version": "1.107.1.293-575aed08",
+    "version": "1.108.1.307-dd5b87aa",
     "description": "Official Plex client",
     "homepage": "https://www.plex.tv/apps-devices/#modal-devices-plex-for-windows",
     "license": {
@@ -11,8 +11,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.plex.tv/plex-desktop/1.107.1.293-575aed08/windows/Plex-1.107.1.293-575aed08-x86_64.exe#/dl.7z",
-            "hash": "sha1:f97a248d679659640d72d4fc9e4ed3c9bc8c8897"
+            "url": "https://downloads.plex.tv/plex-desktop/1.108.1.307-dd5b87aa/windows/Plex-1.108.1.307-dd5b87aa-x86_64.exe#/dl.7z",
+            "hash": "sha1:6f2951480d33058e9ca79ae9efbe2121d61aee85"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\", \"$dir\\vc_red*\" -Recurse",
